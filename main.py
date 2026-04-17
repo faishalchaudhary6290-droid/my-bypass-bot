@@ -31,10 +31,10 @@ CHANNEL_LINK = "https://t.me/ai_smart_tech"
 
 # --- FILE IDS (Update these regularly if they expire) ---
 FILES = {
-    "ray": "BQACAgEAAxkBAAMXaeEtBTpV96Q1KcpYNedjQo1dz28AAsUFAAJHYBFHjo2XjLgSmFUeBA",
-    "rare": "BQACAgEAAxkBAAMbaeEtZTU6_6chae0_3qH86v9y6gAC_wUAAkdgEUfG6a_Wp4Yj1R4E",
-    "stark": "BQACAgEAAxkBAAMZaeEtCqkloGUKCt2ePeEsDSDjDSAAsYFAAJHYBFHAcK9W25KamweBA",
-    "delta": "BQACAgEAAxkBAAMVaeEr8j3BkyFfgBavgr6_Hg4MWVkAAkIGAAloFQlHkYCOJSMNyeUeBA"
+    "ray": "BQACAgEAAxkBAAM2aeG_rpSAj9R5daE3qVrx3bCrphsAAjoIAAIlBwlHE-i7va4P3jIeBA",
+    "rare": "BQACAgEAAxkBAAM5aeG_r_deR3vy6ehHEpqI1_iiT1cAAjwIAAIlBwlH30SFSYGPAgoeBA",
+    "stark": "BQACAgEAAxkBAAM4aeG_r9xN94CKZGhH-QK810bHBNEAAjsIAAIlBwlHB_fiir19WGMeBA",
+    "delta": "BQACAgEAAxkBAAM0aeG_fDPaz3NqtIfcXROp4RqSji0AAkIGAALoFQlHkYC0JSMNyeUeBA"
 }
 
 app = Client("BypassBot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
